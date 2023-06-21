@@ -1,5 +1,5 @@
 ### Hi, I'am Danil 👋
-- 🔭 I’m currently working on porjects based on React 
+- 🔭 I’m currently working on projects based on React and TypeScript
 - 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: mail - dmahovbvc@gmail.com
